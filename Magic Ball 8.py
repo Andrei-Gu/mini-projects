@@ -2,12 +2,12 @@
 
 # случайный выбор ответа
 def gettin_answer() :
-    again = 'да'
-    while again.lower() == 'да' :
-        need_answer = input('Твой вопрос сформулирован и ты ждешь ответа? ')
-        if need_answer.lower() == 'да' :
+    again = 'д'
+    while again.lower() == 'д' :
+        need_answer = input('Твой вопрос сформулирован и ты ждешь ответа? (д = да, иной символ = нет) ')
+        if need_answer.lower() == 'д' :
             print(choice(answers))
-            again = input('У тебя еще остались вопросы, требующие ответа? ')
+            again = input('У тебя еще остались вопросы, требующие ответа? (д = да, иной символ = нет) ')
         else :
             break
 
