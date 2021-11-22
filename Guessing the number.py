@@ -10,7 +10,7 @@ def is_valid_limit(s) :
 def inputing_right_limit() :
     right_limit = 0
     while right_limit <= 1 :
-        right_limit_temp = input('Введите правую границу для случайного выбора числа от 1 до n включительно): ')
+        right_limit_temp = input('Введите правую границу для случайного выбора числа от 1 до n включительно: ')
         if is_valid_limit(right_limit_temp) == False :
             print('Это должно быть целое число больше 1')
         else :
