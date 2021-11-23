@@ -4,7 +4,7 @@
 * Числовая угадайка ([Guessing the number][3])
 * Магический шар 8 ([Magic Ball 8][4])
 * Генератор безопасных паролей ([Password generator][5])
-* ~~Шифр Цезаря~~
+* Шифр Цезаря ([Caesar cipher][6])
 * ~~Калькулятор систем счисления~~
 * ~~Угадайка слов~~
 
@@ -14,3 +14,4 @@
 [3]: https://github.com/Andrei-Gu/mini-projects/blob/main/Guessing%20the%20number.py
 [4]: https://github.com/Andrei-Gu/mini-projects/blob/main/Magic%20Ball%208.py
 [5]: https://github.com/Andrei-Gu/mini-projects/blob/main/Password%20generator.py
+[6]: https://github.com/Andrei-Gu/mini-projects/blob/main/Caesar%20cipher.py
