@@ -5,8 +5,9 @@
 * Магический шар 8 ([Magic Ball 8][4])
 * Генератор безопасных паролей ([Password generator][5])
 * Шифр Цезаря ([Caesar cipher][6])
-* ~~Калькулятор систем счисления~~
-* ~~Угадайка слов~~
+* Угадайка слов ([][7])
+
+[Мой сертификат о прохождении курса][8]
 
 
 [1]: https://stepik.org/course/58852/info
@@ -15,3 +16,5 @@
 [4]: https://github.com/Andrei-Gu/mini-projects/blob/main/Magic%20Ball%208.py
 [5]: https://github.com/Andrei-Gu/mini-projects/blob/main/Password%20generator.py
 [6]: https://github.com/Andrei-Gu/mini-projects/blob/main/Caesar%20cipher.py
+[7]: 
+[8]: https://stepik.org/cert/1054631
